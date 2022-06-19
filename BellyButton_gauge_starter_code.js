@@ -36,7 +36,8 @@ function buildCharts(sample) {
     ];
     
     // 5. Create the layout for the gauge chart.
-    var gaugeLayout = { 
+    var gaugeLayout = { Plotly.newPlot('gauge', Gaugedata, Gaugelayout);
+  }).catch(error => console.log(error));
      
     };
 
