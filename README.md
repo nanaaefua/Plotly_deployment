@@ -5,8 +5,6 @@ This project is to display the use Plotly.js, a JavaScript data visualization li
 The project is to find bacterial species which have the abilities synthesize proteins to taste like beef which scientific lab companies have had success in performing this objective. By researching sources like algae, fungi, meat, and microorganisms found on plants to meet the goal even though there are still searching to find the perfect bacterial to change one of these sources to taste like beef. The hypothesis is to show either bacterial find in belly button can be used to synthesize meat, algae, or fungi to taste like beef.
 
 
-![Screenshot 2022-09-02 000701](https://user-images.githubusercontent.com/90292072/188063206-20bc5b43-967f-446a-b1ec-5ea7f7b44f1e.png)
-
 
 
 
